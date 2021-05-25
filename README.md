@@ -4,7 +4,7 @@
   
 ##### Problem set:  
 01. Vito's familiy (05.25.2021)  
-02. Hashmat the brave warrior  
+02. Hashmat the brave warrior (05.25.2021)  
 03. Primary Arithmetic  
 04. The 3n %2B 1 problem  
 05. You can say 11  
