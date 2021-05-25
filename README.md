@@ -1,8 +1,8 @@
 # CPE-1-star-problems  
-
-Goal: Finish this problem set.  
-
-Problem set:  
+  
+###### Reference: [Problem set](http://squall.cs.ntou.edu.tw/cprog/practices/CPE1star/problem%20list.html)    
+  
+##### Problem set:  
 01. Vito's familiy  
 02. Hashmat the brave warrior  
 03. Primary Arithmetic  
@@ -53,4 +53,3 @@ Problem set:
 48. Cola  
 49. Sort! Sort!! And Sort!!!  
   
-###### Reference: [Problem set](http://squall.cs.ntou.edu.tw/cprog/practices/CPE1star/problem%20list.html)
