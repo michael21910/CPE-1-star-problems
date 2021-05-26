@@ -9,7 +9,7 @@
 04. The 3n + 1 problem (05.26.2021)  
 05. You can say 11 (05.26.2021)  
 06. Bangla Numbers (05.26.2021)  
-07. List of Conquests  
+07. List of Conquests (05.26.2021)  
 08. What's Cryptanalysis  
 09. Decode the Mad man  
 10. Summing Digits  
