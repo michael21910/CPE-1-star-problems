@@ -6,7 +6,7 @@
 01. Vito's familiy (05.25.2021)  
 02. Hashmat the brave warrior (05.25.2021)  
 03. Primary Arithmetic (05.25.2021)  
-04. The 3n %2B 1 problem  
+04. The 3n + 1 problem  
 05. You can say 11  
 06. Bangla Numbers  
 07. List of Conquests  
