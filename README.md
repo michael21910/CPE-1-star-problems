@@ -7,7 +7,7 @@
 02. Hashmat the brave warrior (05.25.2021)  
 03. Primary Arithmetic (05.25.2021)  
 04. The 3n + 1 problem (05.26.2021)  
-05. You can say 11  
+05. You can say 11 (05.26.2021)  
 06. Bangla Numbers  
 07. List of Conquests  
 08. What's Cryptanalysis  
