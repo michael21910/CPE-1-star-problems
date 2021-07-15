@@ -10,7 +10,7 @@
 05. You can say 11 (05.26.2021)  
 06. Bangla Numbers (05.26.2021)  
 07. List of Conquests (05.26.2021)  
-08. What's Cryptanalysis  
+08. What's Cryptanalysis (07.15.2021)  
 09. Decode the Mad man  
 10. Summing Digits  
 11. Common Permutation  
