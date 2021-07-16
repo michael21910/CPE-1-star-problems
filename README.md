@@ -13,7 +13,7 @@
 08. What's Cryptanalysis (07.15.2021)  
 09. Decode the Mad man (07.16.2021)  
 10. Summing Digits (07.16.2021)  
-11. Common Permutation  
+11. Common Permutation (07.16.2021)  
 12. Rotating Sentences  
 13. TEX Quotes  
 14. Doom's Day Algorithm  
