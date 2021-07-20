@@ -14,7 +14,7 @@
 09. Decode the Mad man (07.16.2021)  
 10. Summing Digits (07.16.2021)  
 11. Common Permutation (07.16.2021)  
-12. Rotating Sentences  
+12. Rotating Sentences (07.20.2021)  
 13. TEX Quotes  
 14. Doom's Day Algorithm  
 15. Jolly Jumpers  
