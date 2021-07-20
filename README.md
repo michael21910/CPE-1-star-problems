@@ -1,6 +1,6 @@
 # CPE-1-star-problems  
   
-###### Reference: [Problem set](http://squall.cs.ntou.edu.tw/cprog/practices/CPE1star/problem%20list.html)    
+###### Reference: [Problem set](http://squall.cs.ntou.edu.tw/cprog/practices/CPE1star/problem%20list.html) or [Problem set2](https://cpe.cse.nsysu.edu.tw/environment.php#starList)      
   
 ##### Problem set:  
 01. Vito's familiy (05.25.2021)  
