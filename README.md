@@ -15,7 +15,7 @@
 10. Summing Digits (07.16.2021)  
 11. Common Permutation (07.16.2021)  
 12. Rotating Sentences (07.20.2021)  
-13. TEX Quotes  
+13. TEX Quotes (07.20.2021)  
 14. Doom's Day Algorithm  
 15. Jolly Jumpers  
 16. What is the Probability  
