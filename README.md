@@ -19,7 +19,7 @@
 14. Doom's Day Algorithm (07.27.2021)  
 15. Jolly Jumpers (07.27.2021)  
 16. What is the Probability (07.27.2021)  
-17. The Hotel with Infinite Rooms10170  
+17. The Hotel with Infinite Rooms10170 (07.27.2021)  
 18. 498-bis  
 19. Odd Sum  
 20. Beat the Spread  
