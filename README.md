@@ -17,7 +17,7 @@
 12. Rotating Sentences (07.20.2021)  
 13. TEX Quotes (07.20.2021)  
 14. Doom's Day Algorithm (07.27.2021)  
-15. Jolly Jumpers  
+15. Jolly Jumpers (07.27.2021)  
 16. What is the Probability  
 17. The Hotel with Infinite Rooms10170  
 18. 498-bis  
