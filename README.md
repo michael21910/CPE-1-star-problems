@@ -16,7 +16,7 @@
 11. Common Permutation (07.16.2021)  
 12. Rotating Sentences (07.20.2021)  
 13. TEX Quotes (07.20.2021)  
-14. Doom's Day Algorithm  
+14. Doom's Day Algorithm (07.27.2021)  
 15. Jolly Jumpers  
 16. What is the Probability  
 17. The Hotel with Infinite Rooms10170  
