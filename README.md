@@ -2,7 +2,7 @@
   
 ###### Reference: [Problem set](http://squall.cs.ntou.edu.tw/cprog/practices/CPE1star/problem%20list.html) or [Problem set2](https://cpe.cse.nsysu.edu.tw/environment.php#starList)      
   
-Note that all of the codes will first be submitted on [UVa online judge](https://onlinejudge.org/) first.
+- Note that all of the codes will first be submitted on [UVa online judge](https://onlinejudge.org/) first.
   
 ##### Problem set:  
 01. Vito's familiy (05.25.2021)  
