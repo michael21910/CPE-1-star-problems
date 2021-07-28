@@ -21,7 +21,7 @@
 16. What is the Probability (07.27.2021)  
 17. The Hotel with Infinite Rooms10170 (07.27.2021)  
 18. 498-bis (07.28.2021)  
-19. Odd Sum  
+19. Odd Sum (07.28.2021)    
 20. Beat the Spread  
 21. Symmetric matrix  
 22. Square numbers  
