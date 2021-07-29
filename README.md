@@ -25,7 +25,7 @@
 18. 498-bis (07.28.2021)  
 19. Odd Sum (07.28.2021)    
 20. Beat the Spread (07.28.2021)  
-21. Symmetric matrix  
+21. Symmetric matrix (07.29.2021)  
 22. Square numbers  
 23. B2-Sequence  
 24. Back to High School Physics  
