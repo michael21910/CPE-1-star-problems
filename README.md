@@ -26,7 +26,7 @@
 19. Odd Sum (07.28.2021)    
 20. Beat the Spread (07.28.2021)  
 21. Symmetric matrix (07.29.2021)  
-22. Square numbers  
+22. Square numbers (07.29.2021)  
 23. B2-Sequence  
 24. Back to High School Physics  
 25. An Easy Problem  
