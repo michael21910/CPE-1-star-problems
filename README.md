@@ -27,7 +27,7 @@
 20. Beat the Spread (07.28.2021)  
 21. Symmetric matrix (07.29.2021)  
 22. Square numbers (07.29.2021)  
-23. B2-Sequence  
+23. B2-Sequence (07.30.2021)  
 24. Back to High School Physics  
 25. An Easy Problem  
 26. Fibonaccimal Base  
