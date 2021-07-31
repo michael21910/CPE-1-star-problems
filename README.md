@@ -31,7 +31,7 @@
 24. Back to High School Physics (07.30.2021)  
 25. An Easy Problem (07.31.2021)  
 26. Fibonaccimal Base (07.31.2021)  
-27. Funny Encryption Method  
+27. Funny Encryption Method (07.31.2021)  
 28. Parity  
 29. Cheapest Base  
 30. Hartals  
