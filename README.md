@@ -32,7 +32,7 @@
 25. An Easy Problem (07.31.2021)  
 26. Fibonaccimal Base (07.31.2021)  
 27. Funny Encryption Method (07.31.2021)  
-28. Parity  
+28. Parity (07.31.2021)  
 29. Cheapest Base  
 30. Hartals  
 31. All You Need Is Love  
