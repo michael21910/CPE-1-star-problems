@@ -29,7 +29,7 @@
 22. Square numbers (07.29.2021)  
 23. B2-Sequence (07.30.2021)  
 24. Back to High School Physics (07.30.2021)  
-25. An Easy Problem  
+25. An Easy Problem (07.31.2021)  
 26. Fibonaccimal Base  
 27. Funny Encryption Method  
 28. Parity  
