@@ -34,7 +34,7 @@
 27. Funny Encryption Method (07.31.2021)  
 28. Parity (07.31.2021)  
 29. Cheapest Base (08.03.2021)  
-30. Hartals  
+30. Hartals (08.03.2021)  
 31. All You Need Is Love  
 32. Divide But not Quite Conquer  
 33. Simply Emirp  
