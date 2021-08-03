@@ -40,7 +40,7 @@
 33. Simply Emirp (08.03.2021)  
 34. 2 the 9s (08.03.2021)  
 35. GCD (08.03.2021)  
-36. Largest Square  
+36. Largest Square (08.03.2021)  
 37. Satellites  
 38. Can You Solve It  
 39. Fourth Point  
