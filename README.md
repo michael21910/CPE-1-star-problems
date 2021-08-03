@@ -43,7 +43,7 @@
 | UVa 10922 | 2 the 9s | :heavy_check_mark: | (08.03.2021) |  
 | UVa 11417 | GCD | :heavy_check_mark: | (08.03.2021) |  
 | UVa 10908 | Largest Square | :heavy_check_mark: | (08.03.2021) |  
-| UVa 10221 | Satellites | :heavy_minus_sign: | |  
+| UVa 10221 | Satellites | :heavy_check_mark: | (08.03.2021) |  
 | UVa 10642 | Can You Solve It | :heavy_minus_sign: | | 
 | UVa 10242 | Fourth Point | :heavy_minus_sign: | | 
 | UVa 10057 | A mid-summer night's dream | :heavy_minus_sign: | | 
