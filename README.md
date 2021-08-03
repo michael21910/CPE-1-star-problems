@@ -35,7 +35,7 @@
 28. Parity (07.31.2021)  
 29. Cheapest Base (08.03.2021)  
 30. Hartals (08.03.2021)  
-31. All You Need Is Love  
+31. All You Need Is Love (08.03.2021)  
 32. Divide But not Quite Conquer  
 33. Simply Emirp  
 34. 2 the 9s  
