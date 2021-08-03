@@ -38,7 +38,7 @@
 31. All You Need Is Love (08.03.2021)  
 32. Divide But not Quite Conquer (08.03.2021)  
 33. Simply Emirp (08.03.2021)  
-34. 2 the 9s  
+34. 2 the 9s (08.03.2021)  
 35. GCD  
 36. Largest Square  
 37. Satellites  
