@@ -37,7 +37,7 @@
 30. Hartals (08.03.2021)  
 31. All You Need Is Love (08.03.2021)  
 32. Divide But not Quite Conquer (08.03.2021)  
-33. Simply Emirp  
+33. Simply Emirp (08.03.2021)  
 34. 2 the 9s  
 35. GCD  
 36. Largest Square  
