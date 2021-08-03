@@ -39,7 +39,7 @@
 32. Divide But not Quite Conquer (08.03.2021)  
 33. Simply Emirp (08.03.2021)  
 34. 2 the 9s (08.03.2021)  
-35. GCD  
+35. GCD (08.03.2021)  
 36. Largest Square  
 37. Satellites  
 38. Can You Solve It  
