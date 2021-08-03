@@ -36,7 +36,7 @@
 29. Cheapest Base (08.03.2021)  
 30. Hartals (08.03.2021)  
 31. All You Need Is Love (08.03.2021)  
-32. Divide But not Quite Conquer  
+32. Divide But not Quite Conquer (08.03.2021)  
 33. Simply Emirp  
 34. 2 the 9s  
 35. GCD  
