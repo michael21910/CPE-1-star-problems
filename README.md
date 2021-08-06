@@ -45,7 +45,7 @@
 | UVa 10908 | Largest Square | :heavy_check_mark: | (08.03.2021) |  
 | UVa 10221 | Satellites | :heavy_check_mark: | (08.03.2021) |  
 | UVa 10642 | Can You Solve It | :heavy_check_mark: | (08.06.2021) | 
-| UVa 10242 | Fourth Point | :heavy_minus_sign: | | 
+| UVa 10242 | Fourth Point | :heavy_check_mark: |  (08.06.2021)| 
 | UVa 10057 | A mid-summer night's dream | :heavy_minus_sign: | | 
 | UVa 10062 | Tell me the frequencies | :heavy_minus_sign: | | 
 | UVa 299 | Train Swapping | :heavy_minus_sign: | | 
