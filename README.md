@@ -45,14 +45,14 @@
 | UVa 10908 | Largest Square | :heavy_check_mark: | (08.03.2021) |  
 | UVa 10221 | Satellites | :heavy_check_mark: | (08.03.2021) |  
 | UVa 10642 | Can You Solve It | :heavy_check_mark: | (08.06.2021) | 
-| UVa 10242 | Fourth Point | :heavy_check_mark: |  (08.06.2021)| 
-| UVa 10057 | A mid-summer night's dream | :heavy_minus_sign: | | 
-| UVa 10062 | Tell me the frequencies | :heavy_minus_sign: | | 
-| UVa 299 | Train Swapping | :heavy_minus_sign: | | 
-| UVa 10226 | Hardwood Species | :heavy_minus_sign: | | 
-| UVa 10189 | Mine Sweeper | :heavy_minus_sign: | | 
-| UVa 10409 | Die Game | :heavy_minus_sign: | | 
-| UVa 10415 | Eb Alto Saxophone Player | :heavy_minus_sign: | | 
-| UVa 118 | Mutant Flatworld Explorers | :heavy_minus_sign: | | 
-| UVa 11150 | Cola | :heavy_minus_sign: | | 
-| UVa 11321 | Sort! Sort!! And Sort!!! | :heavy_minus_sign: | |  
+| UVa 10242 | Fourth Point | :heavy_check_mark: |  (08.06.2021) | 
+| UVa 10057 | A mid-summer night's dream | :heavy_check_mark: | (09.04.2021) | 
+| UVa 10062 | Tell me the frequencies | :heavy_check_mark: | (09.04.2021) | 
+| UVa 299 | Train Swapping | :heavy_check_mark: | (09.04.2021) | 
+| UVa 10226 | Hardwood Species | :heavy_check_mark:: | (09.04.2021) | 
+| UVa 10189 | Mine Sweeper | :heavy_check_mark: | (09.04.2021) | 
+| UVa 10409 | Die Game | :heavy_check_mark: | (09.04.2021) | 
+| UVa 10415 | Eb Alto Saxophone Player | :heavy_check_mark: | (09.04.2021) | 
+| UVa 118 | Mutant Flatworld Explorers | :heavy_check_mark: | (09.04.2021) | 
+| UVa 11150 | Cola | :heavy_check_mark: | (09.04.2021) | 
+| UVa 11321 | Sort! Sort!! And Sort!!! | :heavy_check_mark: | (09.04.2021) |  
