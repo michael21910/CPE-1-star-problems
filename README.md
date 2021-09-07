@@ -58,5 +58,5 @@
 | UVa 11321 | Sort! Sort!! And Sort!!! | :heavy_check_mark: | (09.04.2021) |  
   
   
-All of the problems(CPE 1 star problem) are solved at 09.04.2021.  
-Michael Hsueh 09.04.2021
+All of the problems(CPE 1 star problem) are solved at 09/04/2021.  
+Michael Hsueh 09/04/2021
