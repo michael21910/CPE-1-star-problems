@@ -59,4 +59,6 @@
   
   
 All of the problems(CPE 1 star problem) are solved at 09/04/2021.  
-Michael Hsueh 09/04/2021
+
+## License
+[MIT](LICENSE) © Tsuen Hsueh
